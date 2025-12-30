@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (VERY IMPORTANT)
+archive/
+dataset/
+train/
+test/
+val/
+
+# ML models (VERY IMPORTANT)
+
+ML_Model/
+*.h5
+*.pth
+*.onnx
+
+ML_MODEL/**/*.h5   
+# VS Code
+.vscode/
+
